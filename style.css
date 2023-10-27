@@ -6,7 +6,14 @@
     font-family: 'Titillium Web', sans-serif;
 }
 
+/* 1 rem equivale a 16 px */
 header {
     background-image: url(./bm-mobile.png);
     background-size: cover;
+    height: 8.375rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
